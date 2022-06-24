@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>demo-bbn-$(MSBuildProjectName)</AssemblyName>
+    <Title>Application Logger</Title>
+    <Description>ApplicationLogger code library</Description>
+    <RepositoryUrl>https://github.com/andres-torres-2020/ApplicationLogger</RepositoryUrl>
+    <Copyright>Copyright 2022</Copyright>
+  </PropertyGroup>
+
+</Project>
